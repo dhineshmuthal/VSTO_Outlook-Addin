@@ -1,0 +1,14 @@
+C:\Users\Dhineshbabu\source\repos\Srplug\Srplug\bin\Debug\Srplug.dll
+C:\Users\Dhineshbabu\source\repos\Srplug\Srplug\bin\Debug\Srplug.pdb
+C:\Users\Dhineshbabu\source\repos\Srplug\Srplug\bin\Debug\Srplug.dll.manifest
+C:\Users\Dhineshbabu\source\repos\Srplug\Srplug\bin\Debug\Srplug.vsto
+C:\Users\Dhineshbabu\source\repos\Srplug\Srplug\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Dhineshbabu\source\repos\Srplug\Srplug\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Users\Dhineshbabu\source\repos\Srplug\Srplug\obj\Debug\Srplug.csproj.AssemblyReference.cache
+C:\Users\Dhineshbabu\source\repos\Srplug\Srplug\obj\Debug\Srplug.Properties.Resources.resources
+C:\Users\Dhineshbabu\source\repos\Srplug\Srplug\obj\Debug\Srplug.Ribbon1.resources
+C:\Users\Dhineshbabu\source\repos\Srplug\Srplug\obj\Debug\Srplug.csproj.GenerateResource.cache
+C:\Users\Dhineshbabu\source\repos\Srplug\Srplug\obj\Debug\Srplug.csproj.CoreCompileInputs.cache
+C:\Users\Dhineshbabu\source\repos\Srplug\Srplug\obj\Debug\Srplug.csproj.Up2Date
+C:\Users\Dhineshbabu\source\repos\Srplug\Srplug\obj\Debug\Srplug.dll
+C:\Users\Dhineshbabu\source\repos\Srplug\Srplug\obj\Debug\Srplug.pdb
